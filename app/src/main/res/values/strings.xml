@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">CarrefourChallenge</string>
+    <string name="following">%s \n Followers</string>
+    <string name="followers">%s \n Following</string>
+    <string name="company">Company:</string>
+    <string name="e_mail">E-mail:</string>
+    <string name="localization">Localization:</string>
+    <string name="blog">Blog:</string>
+    <string name="bio">Bio:</string>
+    <string name="repositories">Repositories</string>
+</resources>
